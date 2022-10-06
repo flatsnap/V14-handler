@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node Src/Index.js"
   },
-  "keywords": [],
+  "keywords": ["best habdler for discord bot"],
   "author": "AkAbhijit",
   "license": "ISC",
   "dependencies": {
