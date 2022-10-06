@@ -26,5 +26,5 @@ npm install
 
 ## If You Need Any Support Join Support Server
 ## 💌 Support Server
-<iframe src="https://discord.com/widget?id=919600088559521852&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-<hr>
+[![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/hDXxeyrDQB)<br />
+[Support Server](https://discord.gg/hDXxeyrDQB) - Support Server Invite link
