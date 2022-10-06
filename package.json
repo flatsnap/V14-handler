@@ -2,10 +2,10 @@
   "name": "v14-handler",
   "version": "1.0.0",
   "description": "An advance multipurpose bot",
-  "main": "src/Index.js",
+  "main": "Src/Index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/Index.js"
+    "start": "node Src/Index.js"
   },
   "keywords": [],
   "author": "AkAbhijit",
