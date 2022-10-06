@@ -21,14 +21,10 @@ After cloning, run
 npm install
 ```
 
-- Start the bot with `node .` or `node Src/Index`
+- **Start the bot with** `node .` *or* `node Src/Index`
 
 
 ## If You Need Any Support Join Support Server
 ## 💌 Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/gfcv94hDhv)]([https://discord.gg/gfcv94hDhv](https://discord.gg/hDXxeyrDQB))
-:----:
-[Support Server]([https://discord.gg/gfcv94hDhv](https://discord.gg/hDXxeyrDQB))
-:----:
-
+<iframe src="https://discord.com/widget?id=919600088559521852&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <hr>
